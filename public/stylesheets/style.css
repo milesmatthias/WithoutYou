@@ -5,6 +5,11 @@ html, body{
 	margin:0px;
 }
 
+a{
+	color: white;
+	text-decoration: none;
+}
+
 div.audioStatus{
 	width:100%;
 	margin-top:5%;
